@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BlueJ.AliceAndBob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BlueJ.DreamHouseDrawing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BlueJ.NaiveTicket" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BlueJ.TooLargeTooSmall" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CR-MicroLabs-Git-MyFirstFork" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java.javac_introduction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LogginLab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QuizZero.Maven" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ScientificCalculator.Maven" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Shell.Console-Lab" vcs="Git" />
+  </component>
+</project>
